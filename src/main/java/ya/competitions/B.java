@@ -1,8 +1,11 @@
-package ya.test;
+package ya.competitions;
 
 import java.util.*;
 import java.util.stream.Collectors;
 
+/**
+ * @author Dmitry Kartsev
+ */
 public class B {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

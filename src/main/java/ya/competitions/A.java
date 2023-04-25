@@ -1,10 +1,13 @@
-package ya.test;
+package ya.competitions;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Objects;
 import java.util.Scanner;
 
+/**
+ * @author Dmitry Kartsev
+ */
 class A {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
