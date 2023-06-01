@@ -1,7 +1,7 @@
-Solved tasks
+#Solved tasks
 ------------
 
-Internship Yandex 2023 \\ Backend (Competitions)
+##Internship Yandex 2023 \\ Backend (Competitions)
 
 
 A. Лучше клавиатуры не сыскать?
