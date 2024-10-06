@@ -93,3 +93,7 @@ Training context Yandex 2022 \\ Backend (Past Competitions)
 то посчитать минимальное количество операций, которое потребуется, чтобы этого достичь.
 
 Модификация основной ветки MAIN 1 в master branch
+<<<<<<< HEAD
+=======
+Модификация основной ветки MAIN 2 в master branch rebase? 
+>>>>>>> 4d463d679312eb973c76c3248d258d8c45ecb87e
