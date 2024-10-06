@@ -95,4 +95,17 @@ Training context Yandex 2022 \\ Backend (Past Competitions)
 Модификация основной ветки MAIN 1 в master branch
 
 Модификация основной ветки MAIN 2 в master branch rebase? 
+<<<<<<< HEAD
 123 23:43
+=======
+
+123
+123
+123
+123
+123
+123
+123
+123
+123
+>>>>>>> 7818b11f2455473a3f5b2e28a2b6fd4aaae2360d
